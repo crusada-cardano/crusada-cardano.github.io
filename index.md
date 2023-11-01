@@ -2,4 +2,4 @@
 
 ![Crusada](crusada_splash.png)
 
-Project documentation: <a href="https://crusada.gitbook.io/crusada-documentation/" target="_blank">Here</a>
+<!--- Project documentation: <a href="https://crusada.gitbook.io/crusada-documentation/" target="_blank">Here</a> --->
