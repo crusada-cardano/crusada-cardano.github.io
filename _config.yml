@@ -1,3 +1,9 @@
+---
+# Front Matter
+theme: minima
+name: ""
+title: null
+---
 # Where things are
 source              : .
 destination         : ./_site
@@ -69,8 +75,3 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
-
-# Extra
-theme: minima
-name: ""
-title: null
