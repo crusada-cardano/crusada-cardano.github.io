@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^crusada-cardano.github.io
-RewriteRule (.*) https://www.crusada-cardano.github.io/$1 [R=301,L]
