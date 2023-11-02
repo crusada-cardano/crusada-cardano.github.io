@@ -4,6 +4,7 @@ theme: minima
 name: "Crusada.io"
 title:
 website: https://crusada.io
+basewebsite: https://crusada.io
 ---
 # Where things are
 source              : .
