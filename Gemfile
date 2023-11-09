@@ -5,3 +5,4 @@ gem 'github-pages'
 gem 'bourbon'
 gem 'jemoji'
 gem "webrick", "~> 1.8"
+gem "sassc", "~> 2.1.0"
