@@ -1,0 +1,63 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "crusada.io"
+description: > # this means to ignore newlines until "email:"
+   Cardano's Carbonari
+
+email: crusada.cardano@gmail.com
+#blog logo
+logo: "/assets/images/crusada_pfp.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/crusada_splash.jpg"
+
+name: 'Crusada'
+author: 'Crusada'
+author_image: "/assets/images/crusada_pfp.jpg"
+
+paginate:	5
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@CrusadaCardano'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/CrusadaCardano
+    desc: Follow us on Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/crusada-cardano
+    desc:	Join us on GitHub
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
