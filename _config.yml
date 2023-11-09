@@ -22,7 +22,7 @@ author_image: "/assets/images/crusada_pfp.jpg"
 
 paginate:	5
 
-url: "" # the base hostname & protocol for your site
+url: "https://crusada.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@CrusadaCardano'
